@@ -1,0 +1,15 @@
+{
+  "name": "pitching-matchups",
+  "version": "1.0.0",
+  "description": "MLB Pitching Match-Ups",
+  "main": "pitching_machups.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremy Banks",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.3.3"
+  }
+}
